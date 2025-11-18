@@ -1,0 +1,14 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-o",
+      "stor.o",
+      "stor.c"
+    ],
+    "directory": "/home/a/SecureCoding/Build-it/fix-it",
+    "file": "/home/a/SecureCoding/Build-it/fix-it/stor.c",
+    "output": "/home/a/SecureCoding/Build-it/fix-it/stor.o"
+  }
+]
